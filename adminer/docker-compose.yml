@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+   adminer:
+    # image: dockette/adminer:dg
+    image: snowdreamtech/adminerevo:4
+    ports:
+      - 8080:80
