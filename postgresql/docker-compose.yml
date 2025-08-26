@@ -17,4 +17,4 @@ services:
     # image: dockette/adminer:dg
     image: snowdreamtech/adminerevo:4
     ports:
-      - 8080:8080
+      - 8080:80
